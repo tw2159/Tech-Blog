@@ -3,11 +3,11 @@
 ## Purpose
 A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers' posts as well.
 
-## Link
-The link here...
+## Heroku Link
+https://pure-lake-61741.herokuapp.com/
 
 ## Screenshot
-image of finished site here...
+![Screenshot of top of page](./public/assets/image/Screenshot.jpg)
 
 ## Built With
 * HTML
